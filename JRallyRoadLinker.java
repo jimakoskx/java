@@ -153,7 +153,6 @@ public class JRallyRoadLinker extends JFrame implements ActionListener{
         return Math.toDegrees(d);
     }
     public static final double rd360=2*Math.PI;
-    public static final double rd270=Math.PI+2*Math.PI;
     public static final double rd90=Math.PI/2;
     
     
